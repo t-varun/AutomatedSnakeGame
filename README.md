@@ -1,8 +1,7 @@
 # AutomatedSnakeGame
 
-<center>
-<img src="https://lh3.googleusercontent.com/-gi00mvMux4c/W_4tcOOhSPI/AAAAAAAAAJI/JczfWn7xPZAhIIggl7hnNvh9gVhKzjebACLcBGAs/h120/Gif.gif">
-<center/>
+<div style="text-align: center;">
+<img src="https://lh3.googleusercontent.com/-gi00mvMux4c/W_4tcOOhSPI/AAAAAAAAAJI/JczfWn7xPZAhIIggl7hnNvh9gVhKzjebACLcBGAs/h120/Gif.gif" style = ""></div>
 
 An automated snake game, where the computer plays itself. Just For Fun..!
 
