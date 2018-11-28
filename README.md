@@ -1,6 +1,6 @@
 # AutomatedSnakeGame
 
-![Keras logo](https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png)
+![SnakeGame](https://lh3.googleusercontent.com/-gi00mvMux4c/W_4tcOOhSPI/AAAAAAAAAJI/JczfWn7xPZAhIIggl7hnNvh9gVhKzjebACLcBGAs/h120/Gif.gif)
 
 An automated snake game, where the computer plays itself. Just For Fun..!
 
